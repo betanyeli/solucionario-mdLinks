@@ -1,0 +1,19 @@
+{
+  "name": "solucionario-mdlinks",
+  "version": "1.0.0",
+  "description": "solucionario MDLinks",
+  "main": "\u001b[6~",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "solucionario"
+  ],
+  "author": "Yo",
+  "bin": "./index.js",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^0.7.0",
+    "node-fetch": "^2.6.0"
+  }
+}
